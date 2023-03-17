@@ -1,0 +1,81 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "CzNdpSqlDBDM-PContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "EFTools",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dm_client_portal].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Agent]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Agreement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Broker]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Contact]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[FinancialOption]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Organization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Party]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[PartyAgreementBase]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[PensionAgreement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dm_client_portal].[Person]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "czndpsqlsrvr-p.CzNdpSqlDBDM-P.dm_client_portal",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
