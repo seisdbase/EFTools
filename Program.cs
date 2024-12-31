@@ -9,6 +9,8 @@ using var db = new DBContext();
 
 var agentList = db.Agents.OrderBy(c => c.PartyKey).ToList();
 
+//
+
 foreach (var agent in agentList)
 {
     Console.WriteLine($"{agent.AgentId} : {agent.LicenseNbr}");
